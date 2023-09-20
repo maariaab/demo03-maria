@@ -1,5 +1,5 @@
 .DS_Storage
 *.log
 node_modules/
-.vscode/
+
 
